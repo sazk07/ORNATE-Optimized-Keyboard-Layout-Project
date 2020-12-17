@@ -32,7 +32,7 @@ All files created using Microsoft Keyboard Layout Creator
 | left ring: 	9.51%  	   | right ring: 	7.63% |
 | left middle: 	11.85%   | right middle: 	16.82% |
 | left index: 	19.15%   | right index: 	17.77% |
-| **total L 	50.14%**  	   | **total R 	49.86%** |
+| **total L 	50.14%** (vs QWERTY: 55.72%) 	   | **total R 	49.86%** (vs QWERTY: 44.28%) |
 
 
 | Finger Bigram Frequency |   |
@@ -41,7 +41,7 @@ All files created using Microsoft Keyboard Layout Creator
 | left ring: 	0.315%	| right ring: 	0.241% |
 | left middle: 	0.175%	| right middle: 	0.486% |
 | left index: 	0.183%	| right index: 	0.227% |
-|   | **total:	1.658%** |
+|   | **total:	1.658%** (vs QWERTY: 6.556%) |
 
 
 | Top Same-Finger Bigrams | Top Neighbour-Finger Bigrams |
@@ -53,7 +53,7 @@ All files created using Microsoft Keyboard Layout Creator
 | 	**UE** 	0.106% | 	**KE** 	0.346% |
 
 
-| Finger Effort |   |   |   |   |
+| Finger Effort (lower is better) |   |   |   |   |
 | --- | --- | --- | --- | ---|
 | 	| base	| s-bigrams | n-bigrams |	total |
 | finger 0 | 0.18118 |	0.00055 |	0.01724	| 0.19897 |
@@ -64,4 +64,4 @@ All files created using Microsoft Keyboard Layout Creator
 | finger 7 | 	0.22671 |	0.01217 |	0.00000 |	0.23889 |
 | finger 8 |	0.10333	| 0.00604	| 0.00183 |	0.11120 |
 | finger 9 | 0.11806 |	0.00025 |	0.00417 |	0.12248 |
-| **total** | 	**1.62876**	| **0.04310**	| **0.02505**	| **1.69692** |
+| **total** | 	**1.62876**	| **0.04310**	| **0.02505**	| **1.69692** (vs QWERTY: 2.43098) |
