@@ -22,6 +22,7 @@ All files created using Microsoft Keyboard Layout Creator
 * very low same finger bigrams
 * Common English bigrams are easy to type
 * Comfortable, ergonomic, and efficient — frequent keys are placed within the natural range of motion of the fingers
+* ZXCV shortcuts are masked in their old positions, meaning that pressing the Ctrl key will use ZXCV shortcuts in their old positions.
 
 ## Keyboard Layout Analyzer Scores
 
