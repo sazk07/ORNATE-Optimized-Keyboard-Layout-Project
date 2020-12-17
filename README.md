@@ -1,5 +1,7 @@
 # Rukia-Optimized-Keyboard-Layout-Project
-An optimized keyboard layout for easier and faster typing
+An optimized keyboard layout for easier and faster typing.
+
+![image of keyboard layout](rukia.jpg)
 
 I write research papers by day and python coding by night so I spend a lot of time on the keyboard. The conventional QWERTY keyboard is not optimized for modern day typing because it was designed to prevent typewriter keys from jamming, not for easier and faster typing. Under QWERTY the most frequently used keys were placed apart from each other to prevent them from jamming. This results in a non-ergonomic layout. However, there are alternatives.
 
