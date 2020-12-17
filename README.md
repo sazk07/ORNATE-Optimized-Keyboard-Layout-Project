@@ -8,8 +8,8 @@ I write research papers by day and python coding by night so I spend a lot of ti
 This is a variation of the Colemak designed keyboard.  It uses Colemak's own metrics to score a lower Finger Bigram frequency and lower Total Finger Effort score than Colemak itself. It is 84% more efficient than QWERTY.
 
 # How to install
-* Download the rukia folder and just run setup.exe
-* for programming or just for reversing the numbers and symbols: download the rukia for programming folder and run setup.exe
+* Download the rukia folder and just run setup.exe. An image of the keyboard layout is in the folder.
+* for programming or just for reversing the numbers and symbols: download the rukia for programming folder and run setup.exe. An image of the keyboard layout is in the folder.
 
 All files created using Microsoft Keyboard Layout Creator
 
