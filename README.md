@@ -55,7 +55,7 @@ All files created using Microsoft Keyboard Layout Creator
 
 | Finger Effort (lower is better) |   |   |   |   |
 | --- | --- | --- | --- | ---|
-| 	| base	| s-bigrams | n-bigrams |	total |
+| 	| base	| same finger bigrams | neighbour finger bigrams |	total |
 | finger 0 | 0.18118 |	0.00055 |	0.01724	| 0.19897 |
 | finger 1 |	0.16038 |	0.00792 |	0.00182	| 0.17011 |
 | finger 2 | 0.19314 |	0.00478	| 0.00000 |	0.19792 |
