@@ -35,7 +35,7 @@ All files created using Microsoft Keyboard Layout Creator
 | **total L 	50.14%** (vs QWERTY: 55.72%) 	   | **total R 	49.86%** (vs QWERTY: 44.28%) |
 
 
-| Finger Bigram Frequency |   |
+| Finger Bigram Frequency (lower is better) |   |
 | --- | ---| 
 | left pinky: 	0.022%	| right pinky: 	0.010% |
 | left ring: 	0.315%	| right ring: 	0.241% |
