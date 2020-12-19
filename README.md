@@ -16,15 +16,25 @@ This is a variation of the Colemak designed keyboard.  It uses Colemak's own met
 All files created using Microsoft Keyboard Layout Creator
 
 ## Features
+
 * 50-50 balanced workload between the left and right hand
 * High typing efficiency
-* very low overall finger travel
-* very low same finger bigrams
+* very low overall finger travel 
+* very low same finger bigrams 
 * Common English bigrams are easy to type
 * Comfortable, ergonomic, and efficient — frequent keys are placed within the natural range of motion of the fingers
 * ZXCV shortcuts are masked in their old positions, meaning that pressing the Ctrl key will use ZXCV shortcuts in their old positions.
 
-## Keyboard Layout Analyzer Scores
+## Keyboard Layout Analyzer Scores (AKA How RUKIA is better)
+
+| Overall Finger Distance Travel (using text of 1984 by George Orwell)| (in metres)  |
+| --- | --- |
+| RUKIA | 592.9 |
+| Colemak | 653.0 |
+| Workman | 610.6 |
+| Dvorak | 659.6 |
+| QWERTY | 1125.8 |
+
 
 | Finger Frequency |   | 
 | --- | --- |
