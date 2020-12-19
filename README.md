@@ -20,7 +20,7 @@ All files created using Microsoft Keyboard Layout Creator
 * 50-50 balanced workload between the left and right hand
 * High typing efficiency
 * very low overall finger travel 
-* very low same finger bigrams 
+* very low same finger bigrams allowing for faster typing
 * Common English bigrams are easy to type
 * Comfortable, ergonomic, and efficient — frequent keys are placed within the natural range of motion of the fingers
 * ZXCV shortcuts are masked in their old positions, meaning that pressing the Ctrl key will use ZXCV shortcuts in their old positions.
