@@ -17,9 +17,9 @@ This is a variation of the Colemak designed keyboard.  It uses Colemak's own met
 All files created using Microsoft Keyboard Layout Creator.
 
 ## Resources for Touch Typing Training
-* [Keybr](https://www.keybr.com/)
 * [Monkeytype](https://monkeytype.com/)
 * [Typeracer](https://play.typeracer.com/)
+* [Keybr](https://www.keybr.com/)
 
 ## Features
 
