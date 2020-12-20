@@ -8,7 +8,8 @@ The conventional QWERTY keyboard is not optimized for modern day typing because 
 This is a variation of the Colemak designed keyboard.  It uses Colemak's own metrics to score a lower Finger Bigram frequency and lower Total Finger Effort score than Colemak itself. It is 84% more efficient than QWERTY.
 
 # How to install
-* Download the rukia folder and just run setup.exe. 
+* Go to the green button "Code" and download ZIP the rukia folder
+* Unzip and just run setup.exe. 
 * for programming or just for reversing the numbers and symbols: download the rukia for programming folder and run setup.exe. 
 * Restart the computer and press Win + Spacebar to change the layout in Windows. 
 * An image of the keyboard layout is in the folder for touch typing reference. 
