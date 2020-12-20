@@ -10,10 +10,15 @@ This is a variation of the Colemak designed keyboard.  It uses Colemak's own met
 # How to install
 * Download the rukia folder and just run setup.exe. 
 * for programming or just for reversing the numbers and symbols: download the rukia for programming folder and run setup.exe. 
-* Restart the computer and press Win + Space to change the layout in Windows. 
+* Restart the computer and press Win + Spacebar to change the layout in Windows. 
 * An image of the keyboard layout is in the folder for touch typing reference. 
 
-All files created using Microsoft Keyboard Layout Creator
+All files created using Microsoft Keyboard Layout Creator.
+
+## Resources for Touch Typing Training
+* [Keybr](https://www.keybr.com/)
+* [Monkeytype](https://monkeytype.com/)
+* [Typeracer](https://play.typeracer.com/)
 
 ## Features
 
