@@ -13,7 +13,7 @@ This is a variation of the Colemak-DH designed keyboard layout. It uses Colemak'
 * for programming or just for reversing the numbers and symbols: download the rukia for programming folder and run setup.exe. 
 * Restart the computer and press Win + Spacebar to change the layout in Windows. 
 * An image of the keyboard layout is in the folder for touch typing reference. 
-* OR if you have autohotkey installed: use the rukia.ahk in rukia aurohotkey folder to run the script and get RUKIA layout directly without any setup.
+* OR if you have autohotkey installed: use the rukia.ahk in *rukia autohotkey script* folder to run the script and get RUKIA layout directly without any setup.
 
 All files created using Microsoft Keyboard Layout Creator and Autohotkey.
 
