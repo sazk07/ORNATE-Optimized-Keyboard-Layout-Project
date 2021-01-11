@@ -33,7 +33,7 @@ All files created using Microsoft Keyboard Layout Creator.
 
 ## Keyboard Layout Analyzer Scores (AKA How RUKIA is better)
 
-| Overall Finger Distance Travel (using text of 1984 by George Orwell)| (in metres)  |
+| Overall Finger Distance Travel (using text of "1984" by George Orwell)| (in metres)  |
 | --- | --- |
 | RUKIA | 594.0 |
 | Colemak | 653.0 |
@@ -57,8 +57,8 @@ All files created using Microsoft Keyboard Layout Creator.
 | left ring: 	0.079%	| right ring: 	0.045% |
 | left middle: 	0.417%	| right middle: 	0.381% |
 | left index: 	0.225%	| right index: 	0.162% |
-|   | **total:	1.415%** (vs QWERTY: 6.575%) |
-
+|   | **total:	1.415%** (vs QWERTY: 6.575%, vs Workman: 3.147%, vs Colemak: 1.669%, vs Colemak-DH: 1.644%) |
+| QWERTY: 6.575% | Dvorak: 2.625% | Workman: 3.147% | Colemak: 1.669% | Colemak: 1.644% |
 
 | Finger Effort (lower is better) |   |   |   |   |
 | --- | --- | --- | --- | ---|
