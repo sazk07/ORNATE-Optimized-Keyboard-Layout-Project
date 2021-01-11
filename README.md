@@ -78,8 +78,8 @@ All files created using Microsoft Keyboard Layout Creator.
 | right pinky | 0.16990 |	0.00239 |	0.00997 |	0.18227 |
 | **total** | 	**1.63689**	| **0.03803**	| **0.03075**	| **1.70566** |
 | Other layouts: |||||
-| QWERTY | 2.46039 | |||
-| Dvorak | 1.93075 ||||
-| Workman | 1.79151 ||||
-| Colemak | 1.80939 ||||
-| Colemak-DH | 1.71482 ||||
+| QWERTY |  | ||2.46039|
+| Dvorak |  |||1.93075|
+| Workman |  |||1.79151|
+| Colemak |  |||1.80939|
+| Colemak-DH |  |||1.71482|
