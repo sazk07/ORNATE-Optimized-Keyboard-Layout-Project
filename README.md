@@ -13,6 +13,7 @@ This is a variation of the Colemak designed keyboard. It uses Colemak's own metr
 * for programming or just for reversing the numbers and symbols: download the rukia for programming folder and run setup.exe. 
 * Restart the computer and press Win + Spacebar to change the layout in Windows. 
 * An image of the keyboard layout is in the folder for touch typing reference. 
+* OR if you have autohotkey installed: use the rukia.ahk in rukia aurohotkey folder to run the script and get RUKIA layout directly without any setup.
 
 All files created using Microsoft Keyboard Layout Creator.
 
@@ -85,7 +86,7 @@ All files created using Microsoft Keyboard Layout Creator.
 | Colemak | 1.73279 |0.04722|0.02939|1.80939|
 | Colemak-DH | 1.64170 |0.04330|0.02983|1.71482|
 
-### Different layout scores using various texts from [stevepp99 analyzer fork](https://stevep99.github.io/keyboard-layout-analyzer/#/main) (higher is better) ###
+### Different layout scores using various texts from [stevep99 analyzer fork](https://stevep99.github.io/keyboard-layout-analyzer/#/main) (higher is better) ###
 
 |  | RUKIA | Colemak-DH | Colemak | Workman | Dvorak | QWERTY |
 | --- | --- | --- | --- | --- | --- | --- |
