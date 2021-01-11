@@ -15,7 +15,7 @@ This is a variation of the Colemak designed keyboard. It uses Colemak's own metr
 * An image of the keyboard layout is in the folder for touch typing reference. 
 * OR if you have autohotkey installed: use the rukia.ahk in rukia aurohotkey folder to run the script and get RUKIA layout directly without any setup.
 
-All files created using Microsoft Keyboard Layout Creator.
+All files created using Microsoft Keyboard Layout Creator and Autohotkey.
 
 ## Resources for Touch Typing Training
 * [Keybr](https://www.keybr.com/)
