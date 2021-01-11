@@ -89,9 +89,9 @@ All files created using Microsoft Keyboard Layout Creator.
 
 |  | RUKIA | Colemak-DH | Colemak | Workman | Dvorak | QWERTY |
 | --- | --- | --- | --- | --- | --- | --- |
-| Alice in Wonderland, Chapter 1 | **69.40** | 68.51 |	66.61 |	65.88 |	63.71 |	45.13 |
-| Magna Carta	|**70.24**	| 70.08	| 68.09	| 66.53	| 65.08	| 43.39 |
-| 1984, Chapter 1	| **69.78**	| 69.55	| 67.47	| 65.65	| 65.25	| 42.21 |
+| Alice in Wonderland, Chapter 1 | *69.40* | 68.51 |	66.61 |	65.88 |	63.71 |	45.13 |
+| Magna Carta	|*70.24*	| 70.08	| 68.09	| 66.53	| 65.08	| 43.39 |
+| 1984, Chapter 1	| *69.78*	| 69.55	| 67.47	| 65.65	| 65.25	| 42.21 |
 | Tarzan of the Apes	| 69.81	| 70.43	| 68.38	| 67.54	| 65.43	| 43.29 |
 | Quotes	| 49.67	| 55.74	| 54.50	| 52.61	| 46.74	| 34.94 |
 | Tao chi ching	| 63.03	| 63.12	| 61.61	| 59.67	| 58.68	| 37.7 |
