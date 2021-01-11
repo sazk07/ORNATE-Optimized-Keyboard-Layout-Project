@@ -57,7 +57,7 @@ All files created using Microsoft Keyboard Layout Creator.
 | left ring: 	0.079%	| right ring: 	0.045% |
 | left middle: 	0.417%	| right middle: 	0.381% |
 | left index: 	0.225%	| right index: 	0.162% |
-| **total:**  | 	**1.415%** |
+| **RUKIA total:**  | 	**1.415%** |
 | Other layouts: | |
 | QWERTY: | 6.575%  |
 | Dvorak: | 2.625% |
@@ -76,4 +76,10 @@ All files created using Microsoft Keyboard Layout Creator.
 | right middle | 	0.20320 |	0.00967 |	0.00000 |	0.21287 |
 | right ring |	0.13351	| 0.00113	| 0.00192 |	0.13656 |
 | right pinky | 0.16990 |	0.00239 |	0.00997 |	0.18227 |
-| **total** | 	**1.63689**	| **0.03803**	| **0.03075**	| **1.70566** (vs QWERTY: 2.46039) |
+| **total** | 	**1.63689**	| **0.03803**	| **0.03075**	| **1.70566** |
+| Other layouts: |||||
+| QWERTY | 2.46039 | |||
+| Dvorak | 1.93075 ||||
+| Workman | 1.79151 ||||
+| Colemak | 1.80939 ||||
+| Colemak-DH | 1.71482 ||||
