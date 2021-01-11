@@ -102,4 +102,4 @@ All files created using Microsoft Keyboard Layout Creator and Autohotkey.
 | programming:  game of life	| 40.77	| *41.26*	| 38.86	| 39.01	| 35.35	| 26.54 |
 | Average scores of the 10 tests | 62.01 | *62.02* | 60.26 | 57.84 | 55.75 | 36.63 |
 
-#Conclusion:# As evidenced from all the scores and metrics, RUKIA is on par with the Colemak-DH layout and it outperforms every other layout.
+Conclusion: As evidenced from all the scores and metrics, RUKIA is on par with the Colemak-DH layout and it outperforms every other layout.
