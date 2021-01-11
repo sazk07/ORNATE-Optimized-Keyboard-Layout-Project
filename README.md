@@ -100,4 +100,4 @@ All files created using Microsoft Keyboard Layout Creator and Autohotkey.
 | Academic paper Contractor performance in construction	| *59.55*	| 58.63	| 57.38	| 49.66	| 47.38	| 30.27 |
 | Academic paper Binary logistic analysis	| 59.78	| *60.29*	| 59.05	| 55.75	| 54.23	| 30.98 |
 | programming:  game of life	| 40.77	| *41.26*	| 38.86	| 39.01	| 35.35	| 26.54 |
-| Average scores of the 10 tests | *62.01* | 62.02 | 60.26 | 57.84 | 55.75 | 36.63 |
+| Average scores of the 10 tests | 62.01 | *62.02* | 60.26 | 57.84 | 55.75 | 36.63 |
