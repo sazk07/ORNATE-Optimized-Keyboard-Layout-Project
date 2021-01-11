@@ -99,4 +99,4 @@ All files created using Microsoft Keyboard Layout Creator.
 | Contractor performance in construction	| *59.55*	| 58.63	| 57.38	| 49.66	| 47.38	| 30.27 |
 | Binary logistic analysis	| 59.78	| *60.29*	| 59.05	| 55.75	| 54.23	| 30.98 |
 | Tech: game of life	| 40.77	| *41.26*	| 38.86	| 39.01	| 35.35	| 26.54 |
-| Average scores of the 10 tests | 61.08 | 61.75 | 60.01 | 57.73 | 55.26 | 36.72 |
+| Average scores of the 10 tests | 61.08 | *61.75* | 60.01 | 57.73 | 55.26 | 36.72 |
