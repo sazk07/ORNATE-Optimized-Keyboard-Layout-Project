@@ -87,7 +87,7 @@ All files created using Microsoft Keyboard Layout Creator.
 
 ### Different layout scores using various texts from [stevepp99 analyzer fork](https://stevep99.github.io/keyboard-layout-analyzer/#/main) ###
 
-||RUKIA | Colemak-DH | Colemak | Workman | Dvorak | QWERTY |
+| | RUKIA | Colemak-DH | Colemak | Workman | Dvorak | QWERTY |
 | --- | --- | --- | --- | --- | --- |
 | Alice in Wonderland, Chapter 1 | **69.40** | 68.51 |	66.61 |	65.88 |	63.71 |	45.13 |
 | Magna Carta	|**70.24**	| 70.08	| 68.09	| 66.53	| 65.08	| 43.39 |
