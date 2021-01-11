@@ -89,13 +89,13 @@ All files created using Microsoft Keyboard Layout Creator.
 
 ||RUKIA | Colemak-DH | Colemak | Workman | Dvorak | QWERTY |
 | --- | --- | --- | --- | --- | --- |
-|Alice in Wonderland, Chapter 1 | **69.40** | 68.51|	66.61|	65.88|	63.71|	45.13|
-| Magna Carta	|**70.24**	|70.08	|68.09	|66.53	|65.08	|43.39|
-| 1984, Chapter 1	|**69.78**	|69.55	|67.47	|65.65	|65.25	|42.21|
-|Tarzan of the Apes	|69.81	|70.43	|68.38	|67.54	|65.43	|43.29|
-|Quotes	|49.67	|55.74	|54.50	|52.61	|46.74	|34.94|
-|Tao chi ching	|63.03	|63.12	|61.61	|59.67	|58.68	|37.7|
-|Cost optimization model	|58.79	|59.85	|58.11	|54.99	|50.78	|32.76|
-|Contractor performance in construction	|59.55	|58.63	|57.38	|49.66	|47.38	|30.27|
-|Binary logistic analysis	|59.78	|60.29	|59.05	|55.75	|54.23	|30.98|
-|tech: game of life	|40.77	|41.26	|38.86	|39.01	|35.35	|26.54|
+| Alice in Wonderland, Chapter 1 | **69.40** | 68.51 |	66.61 |	65.88 |	63.71 |	45.13 |
+| Magna Carta	|**70.24**	| 70.08	| 68.09	| 66.53	| 65.08	| 43.39 |
+| 1984, Chapter 1	| **69.78**	| 69.55	| 67.47	| 65.65	| 65.25	| 42.21 |
+| Tarzan of the Apes	| 69.81	| 70.43	| 68.38	| 67.54	| 65.43	| 43.29 |
+| Quotes	| 49.67	| 55.74	| 54.50	| 52.61	| 46.74	| 34.94 |
+| Tao chi ching	| 63.03	| 63.12	| 61.61	| 59.67	| 58.68	| 37.7 |
+| Cost optimization model	| 58.79	| 59.85	| 58.11	| 54.99	| 50.78	| 32.76 |
+| Contractor performance in construction	| 59.55	| 58.63	| 57.38	| 49.66	| 47.38	| 30.27 |
+| Binary logistic analysis	| 59.78	| 60.29	| 59.05	| 55.75	| 54.23	| 30.98 |
+| Tech: game of life	| 40.77	| 41.26	| 38.86	| 39.01	| 35.35	| 26.54 |
