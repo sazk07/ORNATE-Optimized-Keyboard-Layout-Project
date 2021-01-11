@@ -58,8 +58,12 @@ All files created using Microsoft Keyboard Layout Creator.
 | left middle: 	0.417%	| right middle: 	0.381% |
 | left index: 	0.225%	| right index: 	0.162% |
 |   | **total:	1.415%** |
-| Other layouts | |
-| QWERTY: 6.575% , Dvorak: 2.625% , Workman: 3.147% , Colemak: 1.669% , Colemak: 1.644%  |
+| Other layouts: | |
+| QWERTY: 6.575%  |
+| Dvorak: 2.625% |
+| Workman: 3.147% |
+| Colemak: 1.669% |
+| Colemak-DH: 1.644%  |
 
 | Finger Effort (lower is better) |   |   |   |   |
 | --- | --- | --- | --- | ---|
