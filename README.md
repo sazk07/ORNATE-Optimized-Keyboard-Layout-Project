@@ -21,7 +21,7 @@ There are both software and hardware solutions to all these problems available. 
 
 People who have switched will often rave about how much better their experience of typing has become. Some find there is an increase in typing speed, but more importantly, nearly all experience a huge gain in comfort. Only once you become adapted to typing using a well-designed, ergonomic layout, do you fully appreciate the benefits, and realise just how unsatisfactory Qwerty was all along. If you spend a large part of your day at a computer keyboard, there is potential for a huge quality of life improvement.
 
-This is a variation of the Colemak-DH designed keyboard layout. It uses Colemak's own metrics to score a lower Finger Bigram frequency and lower Total Finger Effort score than Colemak itself. It is 84% more efficient than QWERTY.
+This is a variation of the Colemak-DH keyboard layout. It uses Colemak's own metrics to score a lower Finger Bigram frequency and lower Total Finger Effort score than Colemak itself. It is 84% more efficient than QWERTY.
 
 # How to install
 * Go to the green button "Code" and download ZIP the rukia folder
