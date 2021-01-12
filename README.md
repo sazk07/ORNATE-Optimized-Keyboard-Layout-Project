@@ -46,7 +46,7 @@ All files created using Microsoft Keyboard Layout Creator and Autohotkey.
 * Very low same finger bigrams allowing for faster typing
 * Common English bigrams are easy to type
 * Comfortable, ergonomic, and efficient — frequent keys are placed within the natural range of motion of the fingers
-* ZXCV shortcuts are masked in their old positions, meaning that pressing the Ctrl key will use ZXCV shortcuts in their old positions.
+* ZXCV shortcuts are masked in their old positions, meaning that pressing the Ctrl key will use ZXCV shortcuts in their old positions. This is for klc setup only. Autohotkey script will not preserve the shortcuts.
 
 ## Keyboard Layout Analyzer Scores (AKA How RUKIA is better)
 ### Using [Colemak Mod-DH analyzer](https://colemakmods.github.io/mod-dh/analyze.html) ###
