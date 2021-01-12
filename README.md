@@ -5,6 +5,22 @@ An optimized keyboard layout for easier and faster typing.
 
 The conventional QWERTY keyboard is not optimized for modern day typing because it was designed in 1873 to prevent typewriter keys from jamming, not for easier or faster typing. Under QWERTY the most frequently used keys were placed apart from each other to prevent them from jamming; this results in a non-ergonomic layout. The problem is, we don't use typewriters anymore so the question of keys jamming is reduntant. Keyboards are still using this inefficient layout. However, there are alternatives available.
 
+## What's wrong with Qwerty and the standard layout? ##
+
+So many things: 
+
+* The most frequently typed keys are scattered around the edges of keyboard. Letters that are infrequently typed (e.g. J and K) are in prime positions! 
+* The two most common consonants in English, T and N, require diagonal stretches from the keyboard's home position. 
+* There are frequent, difficult combinations of letters such as DE and LO because these are typically typed with the same finger. For example, try typing 'Lollipop' with a Qwerty keyboard.
+
+All these flaws make it harder and less comfortable to type than it could be, and make it more likely that keyboard users experience health problems such as RSI, or at least lead to inefficient and error-strewn typing. 
+
+## Solutions ##
+
+There are both software and hardware solutions to all these problems available. There are alternative keyboard layouts and other neat tricks that deal with many of the problems, and entirely new hardware designs that address others. You can mix and match these as you please: some people stick with standard keyboard hardware but use an alternative layout configured in software; others continue to use Qwerty but choose an ergonomically designed keyboard, and yet others do both.
+
+People who have switched will often rave about how much better their experience of typing has become. Some find there is an increase in typing speed, but more importantly, nearly all experience a huge gain in comfort. Only once you become adapted to typing using a well-designed, ergonomic layout, do you fully appreciate the benefits, and realise just how unsatisfactory Qwerty was all along. If you spend a large part of your day at a computer keyboard, there is potential for a huge quality of life improvement.
+
 This is a variation of the Colemak-DH designed keyboard layout. It uses Colemak's own metrics to score a lower Finger Bigram frequency and lower Total Finger Effort score than Colemak itself. It is 84% more efficient than QWERTY.
 
 # How to install
