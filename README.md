@@ -52,7 +52,6 @@ All files created using Microsoft Keyboard Layout Creator and Autohotkey.
 * ZXCV shortcuts are masked in their old positions, meaning that pressing the Ctrl key will use ZXCV shortcuts in their old positions. This is for klc setup only. Autohotkey script will not preserve the shortcuts.
 
 ## Keyboard Layout Analyzer Scores (AKA How RUKIA is better)
-### Using [Colemak Mod-DH analyzer](https://colemakmods.github.io/mod-dh/analyze.html) ###
 
 | Overall Finger Distance Travel (using text of "1984" by George Orwell)| (in metres)  |
 | --- | --- |
@@ -62,6 +61,7 @@ All files created using Microsoft Keyboard Layout Creator and Autohotkey.
 | Dvorak | 659.6 |
 | QWERTY | 1125.8 |
 
+### Using [Colemak Mod-DH analyzer](https://colemakmods.github.io/mod-dh/analyze.html) ###
 
 | Finger Frequency |   | 
 | --- | --- |
