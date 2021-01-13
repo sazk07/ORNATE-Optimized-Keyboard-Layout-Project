@@ -8,7 +8,10 @@ The conventional QWERTY keyboard is not optimized for modern day typing because 
 ## What's wrong with Qwerty and the standard layout? ##
 
 So many things: 
-
+* It places very rare letters in the best positions, so your fingers have to move a lot more. 
+* It suffers from a high same finger ratio that slows down typing and increases strain. 
+* It allows for very long sequences of letters with the same hand (e.g. "sweaterdresses") 
+* It suffers from an extremely high ratio of home-row-jumping sequences (e.g. "minimum")
 * The most frequently typed keys are scattered around the edges of keyboard. Letters that are infrequently typed (e.g. J and K) are in prime positions! 
 * The two most common consonants in English, T and N, require diagonal stretches from the keyboard's home position. 
 * There are frequent, difficult combinations of letters such as DE and LO because these are typically typed with the same finger. For example, try typing 'Lollipop' with a Qwerty keyboard.
