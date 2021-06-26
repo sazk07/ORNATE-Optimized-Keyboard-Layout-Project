@@ -27,7 +27,7 @@ People who have switched will often rave about how much better their experience 
 This is a variation of the Colemak-DH keyboard layout. It uses Colemak's own metrics to score a lower Finger Bigram frequency and lower Total Finger Effort score than Colemak itself. It is 84% more efficient than QWERTY.
 
 # How to install
-* Go to the green button "Code" and download ZIP the rukia folder
+* Go to the green button "Code" and download ZIP the folder named "rukia".
 * Unzip and just run setup.exe. 
 * for programming or just for reversing the numbers and symbols: download the rukia for programming folder and run setup.exe. 
 * Restart the computer and press Win + Spacebar to change the layout in Windows. 
