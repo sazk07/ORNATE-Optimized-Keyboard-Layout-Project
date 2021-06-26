@@ -29,8 +29,8 @@ This is a variation of the Colemak-DH keyboard layout. It uses Colemak's own met
 # How to install
 * Go to the green button "Code" and download ZIP the folder named "rukia".
 * Unzip and just run setup.exe. 
-** for programming or just for reversing the numbers and symbols: download the rukia for programming folder and run setup.exe. 
-** OR if you want to have the WIDE MOD, with more even space between the hands and ease on the wrists and shoulders, RUKIA-for-programming WIDE MOD achieves this effect without sacrificing any of the efficiency.
+* > for programming or just for reversing the numbers and symbols: download the rukia for programming folder and run setup.exe. 
+* > OR if you want to have the WIDE MOD, with more even space between the hands and ease on the wrists and shoulders, RUKIA-for-programming WIDE MOD achieves this effect without sacrificing any of the efficiency.
 * Restart the computer and press Win + Spacebar to change the layout in Windows. 
 * An image of the keyboard layout is in the folder for touch typing reference. 
 * OR if you have autohotkey installed: use the rukia.ahk in *rukia autohotkey script* folder to run the script and get RUKIA layout directly without any setup.
