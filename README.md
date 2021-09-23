@@ -5,7 +5,7 @@ An optimized keyboard layout for easier and faster typing.
 
 The conventional QWERTY keyboard is not optimized for modern day typing because it was designed in 1873 to prevent typewriter keys from jamming, not for easier or faster typing. Under QWERTY the most frequently used keys were placed apart from each other to prevent them from jamming; this results in a non-ergonomic layout. The problem is, we don't use typewriters anymore so the question of keys jamming is reduntant. Keyboards are still using this inefficient layout. However, there are alternatives available.
 
-## What's wrong with Qwerty and the standard layout? ##
+## What's wrong with QWERTY and the standard layout? ##
 
 So many things: 
 * It places very rare letters in the best positions, so your fingers have to move a lot more. 
@@ -14,7 +14,7 @@ So many things:
 * It suffers from an extremely high ratio of home-row-jumping sequences (e.g. "minimum")
 * The most frequently typed keys are scattered around the edges of keyboard. Letters that are infrequently typed (e.g. J and K) are in prime positions! 
 * The two most common consonants in English, T and N, require diagonal stretches from the keyboard's home position. 
-* There are frequent, difficult combinations of letters such as DE and LO because these are typically typed with the same finger. For example, try typing 'Lollipop' with a Qwerty keyboard.
+* There are frequent, difficult combinations of letters such as DE and LO because these are typically typed with the same finger. For example, try typing 'Lollipop' with a QWERTY keyboard.
 
 All these flaws make it harder and less comfortable to type than it could be, and make it more likely that keyboard users experience health problems such as RSI, or at least lead to inefficient and error-strewn typing. 
 
