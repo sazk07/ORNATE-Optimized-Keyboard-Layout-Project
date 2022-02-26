@@ -1,3 +1,0 @@
-![rukiap](https://user-images.githubusercontent.com/68821506/123506818-84139a80-d67f-11eb-9923-37023704a040.jpg)
-RUKIA-for-programming is a version of RUKIA with the numbers and symbols swapped. While this helps programmers who have to use symbols more than hard coded numbers, its use is not just limited to programming. It can also be used by people who wish to have the numbers and symbols row swapped. Other than that, the efficiency and ease of use of RUKIA-for-programming is the same as RUKIA itself.
-To use it, just run the setup file, restart your PC and RUKIA-for-programming will be ready for use.
