@@ -1,22 +1,55 @@
-# Rukia-Optimized-Keyboard-Layout-Project
+# ORNATE-Optimized-Keyboard-Layout-Project
 An optimized keyboard layout for easier and faster typing.
 
-![image of keyboard layout](rukia.jpg)
+# How to install
+### in Windows:
+* Go to the green button "Code" and download ZIP the folder named "ORNATE".
 
-The conventional QWERTY keyboard is not optimized for modern day typing because it was designed in 1873 to prevent typewriter keys from jamming, not for easier or faster typing. Under QWERTY the most frequently used keys were placed apart from each other to prevent them from jamming; this results in a non-ergonomic layout. The problem is, we don't use typewriters anymore so the question of keys jamming is reduntant. Keyboards are still using this inefficient layout. However, there are alternatives available.
+* Unzip and just run setup.exe. 
+* > for programming or just for reversing the numbers and symbols: download the ORNATE for programming folder and run setup.exe. 
+* > OR if you want to have the WIDE mod, with more even space between the hands and ease on the wrists and shoulders, ORNATE for programming WIDE mod achieves this effect without sacrificing any of the efficiency.
+* Press Win + Spacebar to change the layout in Windows. 
+* An image of the keyboard layout is in the `/img/` folder for touch typing reference. 
+* OR if you have autohotkey installed: use the `ORNATE.ahk` in *ORNATE autohotkey script* folder to run the script and get ORNATE layout directly without any setup. `ORNATE.ahk` is open source as well so you can view the key mappings.
+
+All files created using Microsoft Keyboard Layout Creator and Autohotkey.
+
+![image of keyboard layout](./ORNATE/img/ORNATE.jpg)
+
+## ORNATE Features
+
+* 50-50 balanced workload between the left and right hand
+
+* High typing efficiency
+
+* Very low overall finger travel 
+
+* Very low same finger bigrams allowing for faster typing
+
+* Common English bigrams are easy to type
+
+* Comfortable, ergonomic, and efficient — frequent keys are placed within the natural range of motion of the fingers
+
+* ZXCV shortcuts are masked in their old positions, meaning that pressing the Ctrl key will use ZXCV shortcuts in their old positions. This is for normal setup only. If you use the Autohotkey script, ZXCV will change according to the new positions.
 
 ## What's wrong with QWERTY and the standard layout? ##
+The conventional QWERTY keyboard is not optimized for modern day typing because it was designed in 1873 to prevent typewriter keys from jamming, not for easier or faster typing. Under QWERTY the most frequently used keys were placed apart from each other to prevent them from jamming; this results in a non-ergonomic layout. The problem is, we don't use typewriters anymore so the question of keys jamming is reduntant. Keyboards are still using this inefficient layout. 
 
-So many things: 
 * It places very rare letters in the best positions, so your fingers have to move a lot more. 
+
 * It suffers from a high same finger ratio that slows down typing and increases strain. 
+
 * It allows for very long sequences of letters with the same hand (e.g. "sweaterdresses") 
+
 * It suffers from an extremely high ratio of home-row-jumping sequences (e.g. "minimum")
+
 * The most frequently typed keys are scattered around the edges of keyboard. Letters that are infrequently typed (e.g. J and K) are in prime positions! 
+
 * The two most common consonants in English, T and N, require diagonal stretches from the keyboard's home position. 
+
 * There are frequent, difficult combinations of letters such as DE and LO because these are typically typed with the same finger. For example, try typing 'Lollipop' with a QWERTY keyboard.
 
-All these flaws make it harder and less comfortable to type than it could be, and make it more likely that keyboard users experience health problems such as RSI, or at least lead to inefficient and error-strewn typing. 
+All these flaws make it harder and less comfortable to type than it could be, and make it more likely that keyboard users experience health problems such as RSI, or at least lead to inefficient and error-strewn typing. However, there are alternatives available.
 
 ## Solutions ##
 
@@ -26,37 +59,16 @@ People who have switched will often rave about how much better their experience 
 
 This is a variation of the Colemak-DH keyboard layout. It uses Colemak's own metrics to score a lower Finger Bigram frequency and lower Total Finger Effort score than Colemak itself. It is 84% more efficient than QWERTY.
 
-# How to install
-* Go to the green button "Code" and download ZIP the folder named "rukia".
-* Unzip and just run setup.exe. 
-* > for programming or just for reversing the numbers and symbols: download the rukia for programming folder and run setup.exe. 
-* > OR if you want to have the WIDE MOD, with more even space between the hands and ease on the wrists and shoulders, RUKIA-for-programming WIDE MOD achieves this effect without sacrificing any of the efficiency.
-* Press Win + Spacebar to change the layout in Windows. 
-* An image of the keyboard layout is in the folder for touch typing reference. 
-* OR if you have autohotkey installed: use the rukia.ahk in *rukia autohotkey script* folder to run the script and get RUKIA layout directly without any setup.
-
-All files created using Microsoft Keyboard Layout Creator and Autohotkey.
-
 ## Resources for Touch Typing Training
 * [Keybr](https://www.keybr.com/)
 * [Monkeytype](https://monkeytype.com/)
 * [Typeracer](https://play.typeracer.com/)
 
-## Features
-
-* 50-50 balanced workload between the left and right hand
-* High typing efficiency
-* Very low overall finger travel 
-* Very low same finger bigrams allowing for faster typing
-* Common English bigrams are easy to type
-* Comfortable, ergonomic, and efficient — frequent keys are placed within the natural range of motion of the fingers
-* ZXCV shortcuts are masked in their old positions, meaning that pressing the Ctrl key will use ZXCV shortcuts in their old positions. This is for klc setup only. Autohotkey script will not preserve the shortcuts.
-
-## Keyboard Layout Analyzer Scores (AKA How RUKIA is better)
+## Keyboard Layout Analyzer Scores (AKA How ORNATE is better)
 
 | Overall Finger Distance Travel (using text of "1984" by George Orwell)| (in metres)  |
 | --- | --- |
-| RUKIA | 594.0 |
+| ORNATE | 594.0 |
 | Colemak | 653.0 |
 | Workman | 610.6 |
 | Dvorak | 659.6 |
@@ -79,7 +91,7 @@ All files created using Microsoft Keyboard Layout Creator and Autohotkey.
 | left ring: 	0.079%	| right ring: 	0.045% |
 | left middle: 	0.417%	| right middle: 	0.381% |
 | left index: 	0.225%	| right index: 	0.162% |
-| **RUKIA total:**  | 	**1.415%** |
+| **ORNATE total:**  | 	**1.415%** |
 | Other layouts: | |
 | QWERTY: | 6.575%  |
 | Dvorak: | 2.625% |
@@ -108,7 +120,7 @@ All files created using Microsoft Keyboard Layout Creator and Autohotkey.
 
 ### Different layout scores using various texts from [stevep99 analyzer fork](https://stevep99.github.io/keyboard-layout-analyzer/#/main) (higher is better) ###
 
-|  | RUKIA | Colemak-DH | Colemak | Workman | Dvorak | QWERTY |
+|  | ORNATE | Colemak-DH | Colemak | Workman | Dvorak | QWERTY |
 | --- | --- | --- | --- | --- | --- | --- |
 | Alice in Wonderland, Chapter 1 | *69.40* | 68.51 |	66.61 |	65.88 |	63.71 |	45.13 |
 | Magna Carta	|*70.24*	| 70.08	| 68.09	| 66.53	| 65.08	| 43.39 |
@@ -122,4 +134,4 @@ All files created using Microsoft Keyboard Layout Creator and Autohotkey.
 | programming:  game of life	| 40.77	| *41.26*	| 38.86	| 39.01	| 35.35	| 26.54 |
 | Average scores of the 10 tests | 62.01 | *62.02* | 60.26 | 57.84 | 55.75 | 36.63 |
 
-Conclusion: As evidenced from all the scores and metrics, RUKIA is on par with the Colemak-DH layout and it outperforms every other layout.
+Conclusion: As evidenced from all the scores and metrics, ORNATE is on par with the Colemak-DH layout and it outperforms every other layout.
