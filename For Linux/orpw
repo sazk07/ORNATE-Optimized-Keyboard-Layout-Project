@@ -1,0 +1,58 @@
+default  partial alphanumeric_keys 
+xkb_symbols "ornate-pw" {
+
+    name[Group1]= "English (ORNATE for programming WIDE mod)";
+
+    key <TLDE> {	[	dollar,	asciitilde	]	};
+    key <AE01> {	[	exclam,	1	]	};
+    key <AE02> {	[	at,	2	]	};
+    key <AE03> {	[	numbersign,	3	]	};
+    key <AE04> {	[	minus,	4	]	};
+    key <AE05> {	[	percent,	5	]	};
+    key <AE06> {	[	plus,	6	]	};
+    key <AE07> {	[	backslash,	7	]	};
+    key <AE08> {	[	asterisk,	8	]	};
+    key <AE09> {	[	parenleft,	9	]	};
+    key <AE10> {	[	parenright,	0	]	};
+    key <AE11> {	[	underscore,	asciicircum	]   };
+    key <AE12> {	[	equal,	grave	]   };
+
+    key <AD01> {	[	comma,	less	]	};
+    key <AD02> {	[	w,	W	]	};
+    key <AD03> {	[	l,	L	]	};
+    key <AD04> {	[	m,	M	]	};
+    key <AD05> {	[	k,	K	]	};
+    key <AD06> {	[	quotedbl,	braceleft	]	};
+    key <AD07> {	[	apostrophe,	braceright	]	};
+    key <AD08> {	[	f,	F	]	};
+    key <AD09> {	[	u,	U	]	};
+    key <AD10> {	[	y,	Y	]	};
+    key <AD11> {	[	q,	Q	]	};
+    key <AD12> {	[	colon,	semicolon	]	};
+
+    key <AC01> {	[	a,	A	]	};
+    key <AC02> {	[	s,	S	]	};
+    key <AC03> {	[	r,	R	]	};
+    key <AC04> {	[	t,	T	]	};
+    key <AC05> {	[	g,	G	]	};
+    key <AC06> {	[	bracketleft,	bracketright	]	};
+    key <AC07> {	[	p,	P	]	};
+    key <AC08> {	[	n,	N	]	};
+    key <AC09> {	[	e,	E	]	};
+    key <AC10> {	[	i,	I	]	};
+    key <AC11> {	[	o,	O	]	};
+
+    key <AB01> {	[	z,	Z	]	};
+    key <AB02> {	[	c,	C	]	};
+    key <AB03> {	[	d,	D	]	};
+    key <AB04> {	[	b,	B	]	};
+    key <AB05> {	[	question,	ampersand	]	};
+    key <AB06> {	[	x,	X	]	};
+    key <AB07> {	[	v,	V	]	};
+    key <AB08> {	[	h,	H	]	};
+    key <AB09> {	[	period,	greater	]	};
+    key <AB10> {	[	j,	J	]	};
+
+    key <BKSL> {	[	slash,	bar	]	};
+    
+};
