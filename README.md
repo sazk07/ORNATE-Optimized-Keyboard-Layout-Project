@@ -7,7 +7,7 @@ An optimized keyboard layout for easier and faster typing.
 
 ---
 
-see install instruction in [Linux](./Linux/README.md) directory
+see install instruction in [Linux](./Linux) directory
 
 ### in Windows:
 
