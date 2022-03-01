@@ -2,19 +2,31 @@
 An optimized keyboard layout for easier and faster typing.
 
 # How to install
+
+### in Linux:
+
+---
+
+see install instruction in [Linux](./Linux/README.md) directory
+
 ### in Windows:
-* Go to the green button "Code" and download ZIP the folder named "ORNATE".
 
-* Unzip and just run setup.exe. 
-* > for programming or just for reversing the numbers and symbols: download the ORNATE for programming folder and run setup.exe. 
-* > OR if you want to have the WIDE mod, with more even space between the hands and ease on the wrists and shoulders, ORNATE for programming WIDE mod achieves this effect without sacrificing any of the efficiency.
-* Press Win + Spacebar to change the layout in Windows. 
-* An image of the keyboard layout is in the `/img/` folder for touch typing reference. 
-* OR if you have autohotkey installed: use the `ORNATE.ahk` in *ORNATE autohotkey script* folder to run the script and get ORNATE layout directly without any setup. `ORNATE.ahk` is open source as well so you can view the key mappings.
+----
 
-All files created using Microsoft Keyboard Layout Creator and Autohotkey.
+1. Go to the green button "Code" and download the zipped package.
 
-![image of keyboard layout](./ORNATE/img/ORNATE.jpg)
+2. Unzip and go to `Windows` directory > `ORNATE` (or any of the variant layouts).
+3. Just run setup.exe. 
+     > for programming or just for reversing the numbers and symbols: download the ORNATE for programming folder (or ORNATE for programming WIDE mod) and run setup.exe. 
+
+    > OR if you want to have the WIDE mod, with more even space between the hands and ease on the wrists and shoulders, ORNATE wide mod achieves this effect without sacrificing any of the efficiency.
+4. Press Win + Spacebar to change the layout in Windows. 
+
+* An image of the keyboard layout is in the `/img/` directory for touch typing reference. 
+
+* Source code available in `/src/` directory. Use Microsoft Keyboard Layout Creator to view source in Windows.
+
+![image of keyboard layout](./Windows/ORNATE/img/orn.jpg)
 
 ## ORNATE Features
 
