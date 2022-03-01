@@ -42,7 +42,7 @@ see install instruction in [Linux](./Linux) directory
 
 * Comfortable, ergonomic, and efficient — frequent keys are placed within the natural range of motion of the fingers
 
-* in Windows only: ZXCV shortcuts are masked in their old positions, meaning that pressing the Ctrl key will use ZXCV shortcuts in their old positions. This is for normal setup only. If you use the Autohotkey script, ZXCV will change according to the new positions.
+* in Windows only: ZXCV shortcuts are masked in their old positions, meaning that pressing the Ctrl key will use ZXCV shortcuts in their old positions.
 
 ## What's wrong with QWERTY and the standard layout? ##
 The conventional QWERTY keyboard is not optimized for modern day typing because it was designed in 1873 to prevent typewriter keys from jamming, not for easier or faster typing. Under QWERTY the most frequently used keys were placed apart from each other to prevent them from jamming; this results in a non-ergonomic layout. The problem is, we don't use typewriters anymore so the question of keys jamming is reduntant. Keyboards are still using this inefficient layout. 
