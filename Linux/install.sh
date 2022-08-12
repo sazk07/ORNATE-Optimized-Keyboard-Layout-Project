@@ -1,0 +1,1 @@
+sudo cp orpw /usr/share/X11/xkb/symbols && sudo cp us /usr/share/X11/xkb/symbols && sudo cp or /usr/share/X11/xkb/symbols && sudo cp orp /usr/share/X11/xkb/symbols && sudo cp orw /usr/share/X11/xkb/symbols && sudo cp evdev.* /usr/share/X11/xkb/rules
