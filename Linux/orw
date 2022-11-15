@@ -3,19 +3,19 @@ xkb_symbols "ornate-w" {
 
     name[Group1]= "English (ORNATE wide mod)";
 
-    key <TLDE> {	[	grave,	asciitilde	]	};
+    key <TLDE> {	[	dollar, asciitilde	]	};
     key <AE01> {	[	1,	exclam	]	};
     key <AE02> {	[	2,	at	]	};
     key <AE03> {	[	3,	numbersign	]	};
-    key <AE04> {	[	4,	dollar	]	};
+    key <AE04> {	[	4,	minus	]	};
     key <AE05> {	[	5,	percent	]	};
-    key <AE06> {	[	6,	asciicircum	]	};
+    key <AE06> {	[	6,	plus	]	};
     key <AE07> {	[	7,	backslash	]	};
     key <AE08> {	[	8,	asterisk	]	};
     key <AE09> {	[	9,	parenleft	]	};
     key <AE10> {	[	0,  parenright ]	};
-    key <AE11> {	[	minus,	underscore	]	};
-    key <AE12> {	[	equal,	plus	]	};
+    key <AE11> {	[	underscore, asciicircum	]	};
+    key <AE12> {	[	equal, grave	]	};
 
     key <AD01> {	[	comma,	less	]	};
     key <AD02> {	[	w,	W	]	};
