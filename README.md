@@ -147,3 +147,5 @@ This is a variation of the Colemak-DH keyboard layout. It uses Colemak's own met
 | Average scores of the 10 tests | 62.01 | *62.02* | 60.26 | 57.84 | 55.75 | 36.63 |
 
 Conclusion: As evidenced from all the scores and metrics, ORNATE is on par with the Colemak-DH layout and it outperforms every other layout.
+
+For more information about me visit [my portfolio website](https://sazk07.github.io)
