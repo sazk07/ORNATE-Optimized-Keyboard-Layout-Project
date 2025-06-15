@@ -77,9 +77,9 @@ This is a variation of the Colemak-DH keyboard layout. It uses Colemak's own met
 
 ## Resources for Touch Typing Training
 
-- <a href="https://www.keybr.com/" target="_blank">Keybr</a>
-- <a href="https://monkeytype.com/" target="_blank">Monkeytype</a>
-- <a href="https://play.typeracer.com/" target="_blank">Typeracer</a>
+- <a href="https://www.keybr.com/" target="_blank" rel="noreferrer">Keybr</a>
+- <a href="https://monkeytype.com/" target="_blank" rel="noreferrer">Monkeytype</a>
+- <a href="https://play.typeracer.com/" target="_blank" rel="noreferrer">Typeracer</a>
 
 ## Keyboard Layout Analyzer Scores (AKA How ORNATE is better)
 
@@ -91,7 +91,7 @@ This is a variation of the Colemak-DH keyboard layout. It uses Colemak's own met
 | Dvorak                                                                 | 659.6       |
 | QWERTY                                                                 | 1125.8      |
 
-### Performance Metrics Measured Using <a href="https://colemakmods.github.io/mod-dh/analyze.html" target="_blank">Colemak Mod-DH analyzer</a>
+### Performance Metrics Measured Using <a href="https://colemakmods.github.io/mod-dh/analyze.html" target="_blank" rel="noreferrer">Colemak Mod-DH analyzer</a>
 
 #### Balanced Load Across Both Hands
 
@@ -154,8 +154,8 @@ This is a variation of the Colemak-DH keyboard layout. It uses Colemak's own met
 | Academic paper Binary logistic analysis               | 59.78   | _60.29_    | 59.05   | 55.75   | 54.23  | 30.98  |
 | programming: game of life                             | 40.77   | _41.26_    | 38.86   | 39.01   | 35.35  | 26.54  |
 
-The layout score is based on a weighed calculation that factors in a distance penalty due to how much your fingers moved (50%), how often you use particular fingers (20%), and how often you switch fingers while typing (30%). See the <a href="https://stevep99.github.io/keyboard-layout-analyzer/#/about" target="_blank">About</a> page for detailed information.
+The layout score is based on a weighed calculation that factors in a distance penalty due to how much your fingers moved (50%), how often you use particular fingers (20%), and how often you switch fingers while typing (30%). See the <a href="https://stevep99.github.io/keyboard-layout-analyzer/#/about" target="_blank" rel="noreferrer">About</a> page for detailed information.
 
 **Conclusion**: As evidenced from all the scores and metrics, ORNATE is on par with the Colemak-DH layout and it outperforms every other layout.
 
-I am an Analyst + Developer. For more information about me visit <a href="https://sazk07.github.io" target="_blank">my portfolio website</a>.
+I am an Analyst + Developer. For more information about me visit <a href="https://sazk07.github.io" target="_blank" rel="noreferrer">my portfolio website</a>.
