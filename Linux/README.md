@@ -2,27 +2,28 @@
 
 1. open bash shell (or zsh or fish)
 ```bash
-$ git clone https://github.com/sazk07/ORNATE-Optimized-Keyboard-Layout-Project.git 
+$ git clone https://github.com/sazk07/ORNATE-Optimized-Keyboard-Layout-Project.git
 ```
 (install git beforehand if you have to)
 
 2. make backups of existing `/usr/share/X11/xkb/rules/evdev.lst` and `/usr/share/X11/xkb/rules/evdev.xml`
 ```bash
-$ cp /usr/share/X11/xkb/rules/evdev.* ~/` 
+cp /usr/share/X11/xkb/rules/evdev.list ~/backup/evdev.lst.bk`
+cp /usr/share/X11/xkb/rules/evdev.xml ~/backup/evdev.xml.bk
 ```
 
 3. run install script `install.sh` (don't forget to set the chmod to exec)
 
 ```bash
-$ chmod +x && ./install.sh
+chmod +x && ./install.sh
 ```
 4. go to `Settings > Keyboard > Input Sources > English (US) > ORNATE`. Log out and Log in and the layout will appear (you can do the same for any of ORNATE's mods i.e. ORNATE for programming, ORNATE wide mod, ORNATE for programming WIDE mod)
 
 ## ALTERNATIVELY
-you can directly use `setxkbmap` to set the keyboard layout
+you can also make it persistent via cli by adding it to your xinitrc file:
 
 ```bash
-$ chmod +x && ./install.sh && setxkbmap or
+echo 'xkbcomp -I$HOME/.xkb/keymap $DISPLAY' >> ~/.xinitrc // or wherever your xinitrc file is located
 ```
 
 ## ORNATE keyboard map
