@@ -18,8 +18,14 @@ chmod +x install.sh && ./install.sh
 you can also make it persistent via cli by adding it to your xinitrc file:
 
 ```bash
-echo 'xkbcomp -I$HOME/.xkb/keymap $DISPLAY' >> ~/.xinitrc // or wherever your xinitrc file is located
+echo 'xkbcomp -I$HOME/.xkb/keymap $DISPLAY' >> ~/.xinitrc
 ```
+or
+
+```bash
+echo 'xkbcomp -I$HOME/.xkb/keymap $DISPLAY' >> ~/.config/X11/xinitrc
+```
+wherever your xinitrc file is located
 
 ## ORNATE keyboard map
 
