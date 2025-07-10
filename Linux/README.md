@@ -1,31 +1,44 @@
+## Prerequisites
+
+- git
+
 ## Install
 
-1. open bash shell (or zsh or fish)
-```bash
-$ git clone https://github.com/sazk07/ORNATE-Optimized-Keyboard-Layout-Project.git
-```
-(install git beforehand if you have to)
+1. open bash shell
 
-2. run install script `install.sh` (don't forget to set the chmod to exec)
-```bash
-bash install.sh
-```
+   ```bash
+   $ git clone https://github.com/sazk07/ORNATE-Optimized-Keyboard-Layout-Project.git
+   ```
 
-3. If you have a graphical interface, go to `Settings > Keyboard > Input Sources > English (US) > ORNATE`. Log out and Log in and the layout will appear (you can do the same for any of ORNATE's mods i.e. ORNATE for programming, ORNATE wide mod, ORNATE for programming WIDE mod)
+2. switch to `Linux` folder
+
+   ```bash
+   $ cd ORNATE-Optimized-Keyboard-Layout-Project/Linux
+   ```
+
+3. run install script `install.sh`
+
+   ```bash
+   bash install.sh
+   ```
+
+4. If you have a graphical interface, go to `Settings > Keyboard > Input Sources > English (US) > ORNATE`. Log out and Log in and the layout will appear (you can do the same for any of ORNATE's mods i.e. ORNATE for programming, ORNATE wide mod, ORNATE for programming WIDE mod)
 
 ### ALTERNATIVELY
 
-you can also make it persistent via cli by adding it to your xinitrc file:
+5. you can also make it persistent via cli by adding it to your xinitrc file:
 
-```bash
-echo 'xkbcomp -I$HOME/.xkb/keymap $DISPLAY' >> ~/.xinitrc
-```
-or
+   ```bash
+   echo 'xkbcomp -I$HOME/.xkb/keymap $DISPLAY' >> ~/.xinitrc
+   ```
 
-```bash
-echo 'xkbcomp -I$HOME/.xkb/keymap $DISPLAY' >> ~/.config/X11/xinitrc
-```
-wherever your xinitrc file is located
+   or
+
+   ```bash
+   echo 'xkbcomp -I$HOME/.xkb/keymap $DISPLAY' >> ~/.config/X11/xinitrc
+   ```
+
+   wherever your xinitrc file is located.
 
 ## ORNATE keyboard map
 
