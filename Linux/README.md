@@ -8,7 +8,7 @@ $ git clone https://github.com/sazk07/ORNATE-Optimized-Keyboard-Layout-Project.g
 
 2. run install script `install.sh` (don't forget to set the chmod to exec)
 ```bash
-chmod 700 install.sh && ./install.sh
+bash install.sh
 ```
 
 3. If you have a graphical interface, go to `Settings > Keyboard > Input Sources > English (US) > ORNATE`. Log out and Log in and the layout will appear (you can do the same for any of ORNATE's mods i.e. ORNATE for programming, ORNATE wide mod, ORNATE for programming WIDE mod)

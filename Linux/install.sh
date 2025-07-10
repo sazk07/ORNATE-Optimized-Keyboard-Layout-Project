@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Define paths
 XKB_DIR="$HOME/.xkb"
