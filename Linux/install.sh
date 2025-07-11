@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Define paths
-readonly XKB_DIR="$HOME/.xkb"
+readonly XKB_DIR="$HOME/.config/xkb"
 readonly SYMBOLS_DIR="$XKB_DIR/symbols"
 readonly KEYMAP_FILE="$XKB_DIR/keymap"
 
